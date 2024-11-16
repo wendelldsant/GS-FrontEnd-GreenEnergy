@@ -22,7 +22,7 @@ function Tecnologia() {
                     A internet conecta pessoas, difunde soluções e impulsiona inovações na crise energética. Descubra as tecnologias mais recentes em energia renovável e exemplos globais de transição energética bem-sucedida.
                     </p>
                 </div>
-                <section className="p-5">
+                <section className="p-0">
                     <Card dadosCards={dadosCards} />
                 </section>
                 

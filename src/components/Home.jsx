@@ -4,6 +4,7 @@ import FirstSection from "./FirstSection"
 import Problema from "./Problema"
 import Tecnologia from "./Tecnologia"
 import Actions from "./Actions"
+import Contact from "./Contact"
 
 function Home() {
     return ( 
@@ -22,6 +23,9 @@ function Home() {
         </section>
         <section id="acoes">
           <Actions />
+        </section>
+        <section id="contato">
+          <Contact />
         </section>
       </main>
      );

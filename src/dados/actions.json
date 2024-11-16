@@ -4,6 +4,11 @@
             "title": "Instalação de Paineis Solares",
             "text": "Instalar painéis solares reduz suas contas de energia e protege o meio ambiente, aproveitando a energia do sol de forma sustentável e econômica.",
             "imagem": "./tecnologias/instalacao-paineis.jpg"
+        },
+        {
+            "title": "Sistemas de Monitoramento",
+            "text": "Sistemas inteligentes otimizam painéis solares residenciais, monitorando consumo, armazenando energia excedente e reduzindo custos.",
+            "imagem": "./tecnologias/casa-com-paineis-solares.jpg"
         }
     ],
     "info2": [
@@ -27,14 +32,24 @@
     ],
     "info4": [
         {
-            "title": "Startups",
-            "text": "Investir em startups que fornecem ajuda pra energia limpa",
-            "imagem": "/isolamento-termico.jpg"
+            "title": "Lemon Energy",
+            "text": "Simplifica o consumo de energia solar conectando produtores locais a empresas, tornando o acesso à energia renovável mais prático e acessível.",
+            "imagem": "./startups/lemon-energy.png"
         },
         {
-            "title": "Startups",
-            "text": "Investir em startups que fornecem ajuda pra energia limpa",
-            "imagem": "/isolamento-termico.jpg"
+            "title": "Energia das Coisas",
+            "text": "Especializada em medir o consumo de energia e suas emissões de CO₂, ajudando empresas a reduzir custos e melhorar a sustentabilidade.",
+            "imagem": "./startups/energia-das-coisas.png"
+        },
+        {
+            "title": "Voltbras",
+            "text": "Gerencia postos de recarga elétrica, fomentando mobilidade sustentável com tecnologia acessível.",
+            "imagem": "./startups/voltbras.jpg"
+        },
+        {
+            "title": "Delfos",
+            "text": "Usa IA para prever falhas em turbinas eólicas, otimizando manutenção e custos.",
+            "imagem": "./startups/delfos.jpg"
         }
     ]
 }

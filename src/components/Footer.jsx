@@ -15,7 +15,7 @@ export default function Footer(){
                         </span>
                 </Link>
             <div className="mt-4">
-              <p>&copy; Motion-Grid. Todos os direitos reservados.</p>
+              <p>&copy; EcoEnergy. Todos os direitos reservados.</p>
             </div>
           </div>
 
@@ -23,11 +23,11 @@ export default function Footer(){
             <h3 className="text-lg font-semibold mb-4">Contato</h3>
             <p className="flex items-center mb-2">
               <span className="material-symbols-outlined text-lg mr-2">call</span>
-              (11) 97398-9086
+              (11) 960181701
             </p>
             <p className="flex items-center mb-2">
               <span className="material-symbols-outlined text-lg mr-2">mail</span>
-              suporte@emotiongrid.com.br
+              suporte@ecoenergy.com.br
             </p>
             <p className="flex items-center">
               <span className="material-symbols-outlined text-lg mr-2">road</span>
