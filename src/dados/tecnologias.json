@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Painéis Solares",
+        "text": "Painéis solares bifaciais maximizam eficiência, como no deserto de Gobi, China.",
+        "imagem": "./tecnologias/paineis-solares.jpg"
+    },
+    {
+        "title": "Carros Elétricos",
+        "text": "Carros elétricos revolucionam mobilidade com baterias avançadas e zero emissões.",
+        "imagem": "./tecnologias/carro-eletrico-carregando.jpg"
+    },
+    {
+        "title": "Parque Solar Noor",
+        "text": "Maior complexo solar do mundo em Marrocos fornece energia limpa para milhões.",
+        "imagem": "./tecnologias/parque-solar-noor.jpg"
+    },
+    {
+        "title": "Smart Grid",
+        "text": "Redes inteligentes que otimizam a energia e reduzem perdas com fontes renováveis.",
+        "imagem": "./tecnologias/smart-grids.jpg"
+    },
+    {
+        "title": "Tesla Hornsdale Power Reserve",
+        "text": "Austrália: Tesla Hornsdale Power Reserve armazena energia renovável, estabilizando a rede elétrica.",
+        "imagem": "./tecnologias/hornsdale-power-reserve.jpg"
+    },
+    {
+        "title": "Hidrogênio Verde",
+        "text": "Produzido por eletrólise usando energia renovável, é o futuro da descarbonizarção de setores",
+        "imagem": "./tecnologias/hidrogenio-verde.jpg"
+    }
+    
+]

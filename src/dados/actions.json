@@ -1,0 +1,40 @@
+{
+    "info1": [
+        {
+            "title": "Instalação de Paineis Solares",
+            "text": "Instalar painéis solares reduz suas contas de energia e protege o meio ambiente, aproveitando a energia do sol de forma sustentável e econômica.",
+            "imagem": "./tecnologias/instalacao-paineis.jpg"
+        }
+    ],
+    "info2": [
+        {
+            "title": "Transporte Público Sustentável",
+            "text": "Escolha ônibus elétrico: transporte sustentável, sem poluição e mais eficiente!",
+            "imagem": "./tecnologias/onibus-eletrico.jpg"
+        },
+        {
+            "title": "O avanço dos carros elétricos",
+            "text": "Carros elétricos economizam com combustível e manutenção, gerando menos custos.",
+            "imagem": "./tecnologias/carro-eletrico.jpg"
+        }
+    ],
+    "info3": [
+        {
+            "title": "Isolamento Térmico",
+            "text": "Planejar um sistema de isolamento térmico reduz custos com energia e mantém sua casa confortável.",
+            "imagem": "./tecnologias/isolamento-termico.jpg"
+        }
+    ],
+    "info4": [
+        {
+            "title": "Startups",
+            "text": "Investir em startups que fornecem ajuda pra energia limpa",
+            "imagem": "/isolamento-termico.jpg"
+        },
+        {
+            "title": "Startups",
+            "text": "Investir em startups que fornecem ajuda pra energia limpa",
+            "imagem": "/isolamento-termico.jpg"
+        }
+    ]
+}
