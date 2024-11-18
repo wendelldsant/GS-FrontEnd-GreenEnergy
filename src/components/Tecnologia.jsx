@@ -6,7 +6,7 @@ function Tecnologia() {
         <div className="relative aspect-video bg-musgo flex flex-col gap-16 2xl:gap-0 2xl:flex-row py-10 items-center justify-center">
             <video
                 className="absolute top-0 left-0 w-full h-full object-cover"
-                // src="/background-video-energia-eolica.mp4"
+                src="/background-video-energia-eolica.mp4"  
                 autoPlay
                 loop
                 muted

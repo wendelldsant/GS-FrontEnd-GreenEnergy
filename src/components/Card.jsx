@@ -1,6 +1,6 @@
 function Card({titulo, texto, icon}) {
     return ( 
-        <div href="#" className="group relative block mx-auto aspect-square w-full">
+        <div  className="group relative block mx-auto aspect-square w-full sm:h-72">
             <span className="absolute inset-0 border-2 border-dashed border-black" />
             <div className="relative flex h-full w-full transform items-end border-2 2xl:border-4 border-black bg-white transition-transform group-hover:scale-105">
                 <div className="p-4 !pt-0 transition-opacity group-hover:absolute group-hover:opacity-0 sm:p-6 lg:p-8">                    

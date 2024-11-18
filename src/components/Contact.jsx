@@ -22,9 +22,9 @@ function Contact() {
     alert(`Sua mensagem foi enviada com sucesso. Obrigado ${name}!`)
   }
     return ( 
-        <div className="bg-musgo container px-4 mx-auto min-h-screen flex justify-center items-center">
-        <div className="mx-auto my-4">
-          <div className="max-w-md mx-auto px-8 py-6 bg-gray-100 rounded-lg shadow-lg">
+        <section className="bg-musgo w-full mx-auto flex justify-center items-center">
+        <div className="mx-auto my-10 w-full">
+          <div className="max-w-lg mx-auto px-8 py-6 bg-gray-100 rounded-lg shadow-lg">
             <h2 className="text-2xl font-semibold text-gray-800 mb-4">
               Converse conosco!
             </h2>
@@ -79,7 +79,7 @@ function Contact() {
             </form>
           </div>
         </div>
-      </div>
+      </section>
      );
 }
 
