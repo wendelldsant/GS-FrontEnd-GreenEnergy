@@ -7,6 +7,7 @@ function Tecnologia() {
             <video
                 className="absolute top-0 left-0 w-full h-full object-cover"
                 src="/background-video-energia-eolica.mp4"  
+                alt="video de geradores de energia eolica"
                 autoPlay
                 loop
                 muted
