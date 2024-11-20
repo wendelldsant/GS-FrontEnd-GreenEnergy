@@ -8,7 +8,7 @@ function Actions() {
 
 
     return ( 
-        <section className="bg-musgo min-h-fit">
+        <section className="bg-musgo min-h-screen">
             <div className="py-12 px-4 grid grid-cols-4 sm:py-20">
                 <h4 className="col-span-4 uppercase text-center text-4xl sm:text-4xl md:text-5xl lg:text-5xl font-light text-white drop-shadow-lg">
                     Contribua para um mundo com mais energia limpa

@@ -5,7 +5,7 @@ function FirstSection() {
                 Eco<span className="text-dark-green">Energy</span>
             </h1>
             <div className="flex items-center justify-center w-3/4 max-w-lg my-6">
-                <img src="/main-bg.png" alt="EcoVisor" className="object-cover" />
+                <img src="/main-bg.png" alt="Imagem Abstrata de Mato em Forma Geométrica" className="object-cover" />
             </div>
             <div className="w-10/12 sm:w-3/4 lg:w-2/3 text-center mt-4">
                 <p className="text-white text-lg sm:text-xl md:text-2xl lg:text-3xl font-light">

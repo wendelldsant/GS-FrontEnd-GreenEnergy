@@ -3,53 +3,80 @@
         {
             "title": "Instalação de Paineis Solares",
             "text": "Instalar painéis solares reduz suas contas de energia e protege o meio ambiente, aproveitando a energia do sol de forma sustentável e econômica.",
-            "imagem": "./tecnologias/instalacao-paineis.jpg"
+            "imagem": "./tecnologias/instalacao-paineis.jpg",
+            "alt": "Equipe de trabalhadores instalando painel solar em um telhado residencial"
         },
         {
             "title": "Sistemas de Monitoramento",
             "text": "Sistemas inteligentes otimizam painéis solares residenciais, monitorando consumo, armazenando energia excedente e reduzindo custos.",
-            "imagem": "./tecnologias/casa-com-paineis-solares.jpg"
+            "imagem": "./tecnologias/casa-com-paineis-solares.jpg",
+            "alt": "Vista aérea de uma casa com telhado coberto de painéis solares"
+        },
+        {
+            "title": "Rastreadores Solares",
+            "text": "Rastreadores solares maximizam a eficiência do seu sistema. Apoie essa tecnologia!",
+            "imagem": "./tecnologias/rastreador-solar.jpg",
+            "alt": "Ilustração de painel solar com rastreador ajustando sua posição ao sol"
         }
     ],
     "info2": [
         {
             "title": "Transporte Público Sustentável",
             "text": "Escolha ônibus elétrico: transporte sustentável, sem poluição e mais eficiente!",
-            "imagem": "./tecnologias/onibus-eletrico.jpg"
+            "imagem": "./tecnologias/onibus-eletrico.jpg",
+            "alt": "Ônibus elétrico verde circulando em uma estrada com vegetação ao fundo"
         },
         {
             "title": "O avanço dos carros elétricos",
             "text": "Carros elétricos economizam com combustível e manutenção, gerando menos custos.",
-            "imagem": "./tecnologias/carro-eletrico.jpg"
+            "imagem": "./tecnologias/carro-eletrico.jpg",
+            "alt": "Carro elétrico carregando em uma estação de recarga, com foco na traseira do veículo"
+        },
+        {
+            "title": "Outra alternativa",
+            "text": "Patinetes elétricos estão cada vez mais em evidência, trazendo agilidade e custo-benefício",
+            "imagem": "./tecnologias/patinete-eletrico.jpg",
+            "alt": "Patinete elétrico estacionado em uma rua, com foco no design moderno"
         }
     ],
     "info3": [
         {
-            "title": "Isolamento Térmico",
+            "title": "Isolamento Térmico em Paredes",
             "text": "Planejar um sistema de isolamento térmico reduz custos com energia e mantém sua casa confortável.",
-            "imagem": "./tecnologias/isolamento-termico.jpg"
+            "imagem": "./tecnologias/isolamento-termico.jpg",
+            "alt": "Profissional instalando material de isolamento térmico em uma parede externa"
+        },
+        {
+            "title": "Isolamento Térmico em Telhados",
+            "text": "Isolamento térmico podem e devem ser instalados em telhados, por conta das condições climáticas",
+            "imagem": "./tecnologias/isolante-termico-para-telhado.jpg",
+            "alt": "Trabalhador instalando isolamento térmico em telhado, preparando para proteger contra calor"
+        },
+        {
+            "title": "Empresas",
+            "text": "Peça auxilio de um profissional e motive o empreendedorismo sustentável!",
+            "imagem": "./tecnologias/trabalhadores-instalando-isolante.jpg",
+            "alt": "Profissional medindo telha para instalar isolante"
         }
     ],
     "info4": [
         {
             "title": "Lemon Energy",
             "text": "Simplifica o consumo de energia solar conectando produtores locais a empresas, tornando o acesso à energia renovável mais prático e acessível.",
-            "imagem": "./startups/lemon-energy.png"
+            "imagem": "./startups/lemon-energy.png",
+            "alt": "Logo da startup Lemon Energy, com fundo verde e letras brancas"
         },
         {
             "title": "Energia das Coisas",
             "text": "Especializada em medir o consumo de energia e suas emissões de CO₂, ajudando empresas a reduzir custos e melhorar a sustentabilidade.",
-            "imagem": "./startups/energia-das-coisas.png"
+            "imagem": "./startups/energia-das-coisas.png",
+            "alt": "Ilustração de sistema de monitoramento de consumo de energia em um edifício corporativo"
         },
         {
             "title": "Voltbras",
             "text": "Gerencia postos de recarga elétrica, fomentando mobilidade sustentável com tecnologia acessível.",
-            "imagem": "./startups/voltbras.jpg"
-        },
-        {
-            "title": "Delfos",
-            "text": "Usa IA para prever falhas em turbinas eólicas, otimizando manutenção e custos.",
-            "imagem": "./startups/delfos.jpg"
+            "imagem": "./startups/voltbras.jpg",
+            "alt": "Pessoa usando aplicativo Voltbras em smartphone para localizar posto de recarga de veículos elétricos"
         }
     ]
 }

@@ -10,7 +10,7 @@ function CardTecnologias({ dadosCards }) {
                         <div className="w-full h-52 bg-gray-200 rounded-lg overflow-hidden relative">
                             <img
                                 src={card.imagem}
-                                alt={card.title}
+                                alt={card.alt}
                                 className="object-cover w-full h-full transition-transform duration-500 group-hover:scale-110"
                             />
                         </div>

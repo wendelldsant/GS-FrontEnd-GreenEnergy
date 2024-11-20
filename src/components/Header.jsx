@@ -20,7 +20,7 @@ function Header() {
     return (
         <header className={`h-auto w-full fixed z-20 transition-colors duration-300 ${isScrolled ? "bg-white bg-opacity-90" : "bg-transparent"}`}>
             <nav className="mx-auto py-4 px-5 flex justify-between items-center">
-                <div className="text-4xl font-bold text-dark-green"><MdEnergySavingsLeaf/> </div>
+                <div className="text-4xl font-bold text-dark-green"><MdEnergySavingsLeaf/></div>
                 <button
                     className={`sm:hidden text-2xl transition-transform duration-300 ${isScrolled ? "text-black" : "text-white"}`}
                     onClick={() => setMenuOpen(!menuOpen)}

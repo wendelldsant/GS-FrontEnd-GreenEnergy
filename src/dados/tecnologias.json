@@ -2,32 +2,38 @@
     {
         "title": "Painéis Solares",
         "text": "Painéis solares bifaciais maximizam eficiência, como no deserto de Gobi, China.",
-        "imagem": "./tecnologias/paineis-solares.jpg"
+        "imagem": "./tecnologias/paineis-solares.jpg",
+        "alt": "Paineis solares no deserto"
     },
     {
         "title": "Carros Elétricos",
         "text": "Carros elétricos revolucionam mobilidade com baterias avançadas e zero emissões.",
-        "imagem": "./tecnologias/carro-eletrico-carregando.jpg"
+        "imagem": "./tecnologias/carro-eletrico-carregando.jpg",
+        "alt": "Carro elétrico carregando em posto de abastecimento"
     },
     {
         "title": "Parque Solar Noor",
         "text": "Maior complexo solar do mundo em Marrocos fornece energia limpa para milhões.",
-        "imagem": "./tecnologias/parque-solar-noor.jpg"
+        "imagem": "./tecnologias/parque-solar-noor.jpg",
+        "alt": "Parque Solar Noor visto de cima"
     },
     {
         "title": "Smart Grid",
         "text": "Redes inteligentes que otimizam a energia e reduzem perdas com fontes renováveis.",
-        "imagem": "./tecnologias/smart-grids.jpg"
+        "imagem": "./tecnologias/smart-grids.jpg",
+        "alt": "Ilustração funcionamento smart-grids"
     },
     {
         "title": "Tesla Hornsdale Power Reserve",
         "text": "Austrália: Tesla Hornsdale Power Reserve armazena energia renovável, estabilizando a rede elétrica.",
-        "imagem": "./tecnologias/hornsdale-power-reserve.jpg"
+        "imagem": "./tecnologias/hornsdale-power-reserve.jpg",
+        "alt": "Tesla Hornsdale Power Reserve visto de cima"
     },
     {
         "title": "Hidrogênio Verde",
         "text": "Produzido por eletrólise usando energia renovável, é o futuro da descarbonizarção de setores",
-        "imagem": "./tecnologias/hidrogenio-verde.jpg"
+        "imagem": "./tecnologias/hidrogenio-verde.jpg",
+        "alt": "Tubos de armazenamento de Hidrogenio verde proximo de paineis solares e geradores de energia eolica"
     }
     
 ]
